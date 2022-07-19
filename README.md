@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A Junior dev who’s looking to help shape the years to come</h3>
 
-- 🔭 I’m currently working on **A personal project related to the legal industry**
+- 🔭 I’m currently working on **A personal project related to the legal industry && EV Charging**
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
